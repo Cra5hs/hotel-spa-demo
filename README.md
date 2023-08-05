@@ -2,7 +2,7 @@
 
 Hotel SPA is a React single-page application that authenticates users to Keycloak, obtains JWT token, and then uses it to make API calls to sample backed services.
 
-This project is a part of a bigger demo app which is documented in: [lukaszbudnik/keycloak-kubernetes](https://github.com/lukaszbudnik/keycloak-kubernetes).
+This project is a part of a bigger demo app which is documented in: https://github.com/Cra5hs/keycloak-gateway-auth/
 
 ## Available Scripts
 
